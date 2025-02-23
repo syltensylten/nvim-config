@@ -1,1 +1,1 @@
-<h2>Nvim-config med Lazy</h2>
+<h2>Nvim-config med Lazy.nvim</h2>
