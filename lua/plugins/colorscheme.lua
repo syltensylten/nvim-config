@@ -1,3 +1,10 @@
 return {
-  "savq/melange-nvim",
+
+  { "savq/melange-nvim" },
+
+  { "LazyVim/LazyVim", 
+    opts = {
+      colorscheme = "melange",
+    }, 
+  }
 }
